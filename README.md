@@ -2,6 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Passionate and self-driven Software Developer, constantly seeking new challenges and opportunities to grow. Enthusiastic about collaborating with experienced professionals to expand my skills and contribute to impactful projects. Dedicated to continuous learning and staying at the forefront of technology trends to create innovative solutions.</em></p>
 
+[<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;">](https://www.linkedin.com/in/-neha-l) **Let's connect**
+
 
 
 ### <img src="https://media.giphy.com/media/StRX8j2Rp1Ft5n7j3w/giphy.gif" width="50"> A little more about me...  
