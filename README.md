@@ -5,7 +5,7 @@
 [<img src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;">](https://www.linkedin.com/in/-neha-l) **Let's connect**
 
 
-### <img src="https://media.giphy.com/media/StRX8j2Rp1Ft5n7j3w/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const neha = {
