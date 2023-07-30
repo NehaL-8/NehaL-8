@@ -1,4 +1,4 @@
-<h2> Hi, I'm Neha L!👋</h2>
+<h2> Namaste, I'm Neha L!👋</h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Passionate and self-driven Software Developer, constantly seeking new challenges and opportunities to grow. Enthusiastic about collaborating with experienced professionals to expand my skills and contribute to impactful projects. Dedicated to continuous learning and staying at the forefront of technology trends to create innovative solutions.</em></p>
 
